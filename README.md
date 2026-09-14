@@ -32,3 +32,20 @@
 - None
 
 ---
+
+## Date: 12-09-2026
+
+**Today's Work:**
+- Created the Array package structure for Session 4.
+- Completed the 5 class problems using arrays, loops, and conditionals.
+- Completed the 5 assignment problems for Session 4.
+- Organized the programs into class_problems and assignment_problems packages.
+- Configured the Java source path in VS Code and resolved package recognition issues.
+
+**Next Session Plan:**
+- Continue with the next session's problems.
+- Create a new feature branch from develop for the next session.
+
+**Issues Faced:**
+- Faced incorrect package errors in VS Code.
+- Resolved the issue by configuring `src/main/java` as the Java source path.
